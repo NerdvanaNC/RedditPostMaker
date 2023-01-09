@@ -1,0 +1,4 @@
+*.ini
+screenshots/
+__pycache__/
+*.txt
