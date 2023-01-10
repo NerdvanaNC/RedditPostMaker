@@ -27,6 +27,3 @@ def screenshot(link, objID, objType):
     browser.close()
 
   return filename
-
-screenshot('https://www.reddit.com/r/AskReddit/comments/107xayi/comment/j3p0vng/', 'j3p0vng', 'comment')
-screenshot('https://www.reddit.com/r/AskReddit/comments/107xayi/you_job_is_to_pick_the_most_awful_actor_to_play/', '107xayi', 'post')
